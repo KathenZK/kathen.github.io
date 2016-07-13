@@ -1,0 +1,27 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    JianShu: http://www.jianshu.com/users/b7804f5dc40c/latest_articles
+    GitHub: https://github.com/KathenZK
+    Weibo: http://www.weibo.com/2299460895/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus: kathenzk
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-78424348-1
+
+# Copyright Infomation
+startyear: 2015
+
+# Font CDN
+#true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
+#false: use useso fonts api instead of google's, great response speed for chinese visitor
+googlefonts: false
