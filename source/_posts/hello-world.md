@@ -1,9 +1,9 @@
 ---
-title: Hello World
+title: 前言
 date: 2015-12-31 14:49:13
 ---
 
-Test
+我为什么要搭建这个独立博客站点，以及我为什么要写博客。
 <!--more-->
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
